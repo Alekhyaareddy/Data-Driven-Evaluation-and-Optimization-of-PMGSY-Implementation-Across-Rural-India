@@ -7,7 +7,7 @@ This project presents a comprehensive data science approach to evaluate the effe
 
 ## 📊 Project Overview
 
-The PMGSY scheme is a flagship rural development program aimed at enhancing rural road connectivity. This project explores real-time data, uncovers patterns, visualizes insights, and highlights challenges and success stories across the nation..
+The PMGSY scheme is a flagship rural development program aimed at enhancing rural road connectivity. This project explores real-time data, uncovers patterns, visualizes insights, and highlights challenges and success stories across the nation.
 
 ---
 
