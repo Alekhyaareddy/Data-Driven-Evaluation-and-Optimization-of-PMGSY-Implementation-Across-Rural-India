@@ -13,7 +13,7 @@ The PMGSY scheme is a flagship rural development program aimed at enhancing rura
 
 ## 📌 Key Features
 
-- ✅ **Data Cleaning & Preprocessing**: Removed nulls, normalized formats, and handled categorical features
+- ✅ **Data Cleaning & Preprocessing**: Removed nulls, normalized formats, and handled categorical features.
 - 🔍 **Exploratory Data Analysis (EDA)**: In-depth statistics on state-wise performance, population categories, and scheme saturation levels.
 - 📈 **Correlation Analysis**: Relationship between road completion, population categories (SC/ST), and timeline delays.
 - 🌍 **State/District Comparisons**: Ranking and analysis based on road completion rate and inclusion.
