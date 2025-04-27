@@ -52,7 +52,7 @@ The PMGSY scheme is a flagship rural development program aimed at enhancing rura
 
 1. Time-Series Forecasting using ARIMA/Prophet models.
 2. Geo-spatial visualization via GIS libraries.
-3. Cluster analysis of district-wise performance (K-Means, DBSCAN).
+3. Cluster analysis of district-wise performance (K-Means, DBSCAN)
 4. Integrating datasets on literacy, poverty, and infrastructure.
 5. Live dashboards with Streamlit/Dash.
 6. Real-time API integration for dynamic updates.
